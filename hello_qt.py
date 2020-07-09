@@ -3,12 +3,12 @@
 import sys
 import time
 
-from PyQt4 import QtCore, QtGui
+from PyQt4 import QtCore
 from PyQt4.QtCore import SIGNAL
 from PyQt4.QtGui import QApplication, QMainWindow, QFont
 
 from my_bot import TextBot
-from uis.text_bot_gui import Ui_MainWindow
+from text_bot_gui import Ui_MainWindow
 
 
 # Вызов окна (можно применять к любым окнам)
