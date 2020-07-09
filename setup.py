@@ -19,3 +19,6 @@ setup(
     executables=[Executable('hello_qt.py')]
 )
 
+#build
+#bdist_msi
+
